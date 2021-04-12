@@ -33,3 +33,4 @@
 #### If you scroll down on the settings page, you’ll see the GitHub Pages section near the bottom. Click the Choose a theme button to start the process of creating your site.
 #### Once you’ve clicked the button, you’ll be directed to the Theme Chooser. You’ll see several theme options in a carousel across the top of the page. Click on the images to preview the themes. Once you’ve selected one, click Select theme on the right to move on. It’s easy to change your theme later, so if you’re not sure, just choose one for now.
 
+## For more information please review my profile on github [click here](https://github.com/sultan-elayan)
