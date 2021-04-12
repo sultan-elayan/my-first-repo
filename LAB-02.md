@@ -14,7 +14,7 @@
 # Second Subject - Markdown on GitHub
 ## Basic writing and formatting syntax
 #### Create sophisticated formatting for your prose and code on GitHub with simple syntax.
-**i will mention here the basic tags that we take it today**
+> i will mention here the basic tags that we take it today
 ## Headings
 #### To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 ## Links
