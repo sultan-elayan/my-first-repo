@@ -1,4 +1,4 @@
-# my-reading-notes 
+# My-Reading-Notes 
 # First Subject - Growth Mindset
 **It is the correct mentality and way of thinking that loves challenges and believes in work and difficult tasks and to get benefit from the skilled people and successes of others.**
 ## How you can benefit from a growth mindset
@@ -23,7 +23,7 @@
 #### You can make an unordered list by preceding one or more lines of text with - or *.
 #### To order your list, precede each line with a number.
 ## Add image
-#### To add images we need to use " ![here the image name](here the link of the image)"
+#### To add images we need to use " ![here the image name]""(here the link of the image)"
 
 # Third Subject - Getting Started with GitHub Pages
 ## You can set up a basic GitHub Pages site for yourself, your organization, or your project
