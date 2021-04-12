@@ -13,7 +13,7 @@
 # Second Subject - Markdown on GitHub
 ## Basic writing and formatting syntax
 #### Create sophisticated formatting for your prose and code on GitHub with simple syntax.
-## *i will mention here the basic tags that we take it today
+**i will mention here the basic tags that we take it today**
 ## Headings
 #### To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 ## Links
@@ -21,7 +21,8 @@
 ## Lists
 #### You can make an unordered list by preceding one or more lines of text with - or *.
 #### To order your list, precede each line with a number.
-
+## Add image
+#### To add images we need to use " ![here the image name](here the link of the image)"
 
 # Third Subject - Getting Started with GitHub Pages
 ## You can set up a basic GitHub Pages site for yourself, your organization, or your project
