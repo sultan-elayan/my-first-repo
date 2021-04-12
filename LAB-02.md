@@ -1,6 +1,6 @@
 # my-reading-notes 
 # First Subject - Growth Mindset
-### It is the correct mentality and way of thinking that loves challenges and believes in work and difficult tasks and to get benefit from the skilled people and successes of others.
+**It is the correct mentality and way of thinking that loves challenges and believes in work and difficult tasks and to get benefit from the skilled people and successes of others.**
 ## How you can benefit from a growth mindset
 1. Challenges
 2. Obstacles
