@@ -5,7 +5,7 @@
 2. Obstacles
 3. Effort
 4. Success of others
-![worklife](https://www.lifeskillsgroup.com.au/hs-fs/hubfs/growth%20mindset-2.png?width=530&name=growth%20mindset-2.png)
+5. 
 ### Growing at work, and outside work too
 
 
