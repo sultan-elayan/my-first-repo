@@ -1,6 +1,6 @@
-# My-Reading-Notes 
+# my-reading-notes 
 # First Subject - Growth Mindset
-### It is the correct mentality and way of thinking that loves challenges and believes in work and difficult tasks and to get benefit from the skilled people and successes of others.
+**It is the correct mentality and way of thinking that loves challenges and believes in work and difficult tasks and to get benefit from the skilled people and successes of others.**
 ## How you can benefit from a growth mindset
 1. Challenges
 2. Obstacles
@@ -23,7 +23,7 @@
 #### You can make an unordered list by preceding one or more lines of text with - or *.
 #### To order your list, precede each line with a number.
 ## Add image
-#### To add images we need to use " ![here the image name]""(here the link of the image)"
+#### To add images we need to use " ![here the image name](here the link of the image)"
 
 # Third Subject - Getting Started with GitHub Pages
 ## You can set up a basic GitHub Pages site for yourself, your organization, or your project
@@ -33,3 +33,4 @@
 #### If you scroll down on the settings page, you’ll see the GitHub Pages section near the bottom. Click the Choose a theme button to start the process of creating your site.
 #### Once you’ve clicked the button, you’ll be directed to the Theme Chooser. You’ll see several theme options in a carousel across the top of the page. Click on the images to preview the themes. Once you’ve selected one, click Select theme on the right to move on. It’s easy to change your theme later, so if you’re not sure, just choose one for now.
 
+## For more information please review my profile on github [click here](https://github.com/sultan-elayan)
