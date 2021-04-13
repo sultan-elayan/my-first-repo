@@ -4,7 +4,7 @@
 ## Table of Contents
 
 No. | PAGE NAME | PAGE FILES
-----|------
+----|------|-----
 1|Second lab|[LAB02](LAB02)
 2|READ01|[READ01](READ01)
 3|READ02|[READ02](READ02)
