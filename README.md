@@ -7,4 +7,10 @@ No. | PAGE NAME | PAGE FILES
 ----|------|-----
 1|Second lab|[LAB-02](LAB-02.md)
 2|READ01|[read01](read01.md)
+<<<<<<< HEAD
 3|READ02|[READ02](Read02.md)
+=======
+3|READ02|[READ02](Read02.md)
+
+
+>>>>>>> eee9d7e9e0f5580c927a3626e916ada7f31d423a
