@@ -4,8 +4,8 @@
 ## Table of Contents
 
 No. | PAGE NAME | PAGE FILES
-----|------|-----
+----|-----------|-----
 1|Second lab|[LAB-02](LAB-02.md)
-2|READ01|[read01](read01.md)
-3|READ02|[READ02](Read02.md)
+2|READ -1|[READ01](READ01.md)
+3|READ -2|[READ02](Read02.md)
 
