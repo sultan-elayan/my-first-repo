@@ -1,8 +1,7 @@
 # JavaScript 
 ## Comparison Operator Evaluation Condition
 > The javascript comparison operators compare two operands value and return the result in boolean form( true or false).
-
-> You can use the following js comparison operators to compare two operands(string, number, etc) value.
+ You can use the following js comparison operators to compare two operands(string, number, etc) value.
 
 ![1](https://www.tutsmake.com/wp-content/uploads/2020/05/Comparison-Operators-JavaScript.jpeg)
 
@@ -17,18 +16,22 @@ Operators       | Description
 <=|Checks whether left operand is less than or equal to right operand. If yes then returns true otherwise false.
 
 ## Logical Operators
->There are four logical operators in JavaScript: || (OR), && (AND), ! (NOT), ?? (Nullish Coalescing). Here we cover the first three.
+
+>There are four logical operators in JavaScript: (OR),(AND),,(NOT)(Nullish Coalescing). Here I Will cover the first three.
 
 ![2](https://cdn.educba.com/academy/wp-content/uploads/2020/01/Logical-Operators-in-JavaScript.jpg)
 
-**|| (OR)
-The “OR” operator is represented with two vertical line symbols**
+**|| (OR)**
 
-**&& (AND)
-The AND operator is represented with two ampersands &&**
+**The “OR” operator is represented with two vertical line symbols**
 
-**! (NOT)
-The boolean NOT operator is represented with an exclamation sign !**
+**&& (AND)**
+
+**The AND operator is represented with two ampersands &&**
+
+**! (NOT)**
+
+**The boolean NOT operator is represented with an exclamation sign !**
 
 ## Javascript Loops
 > The JavaScript loops are used to iterate the piece of code using for, while, do while or for-in loops. It makes the code compact. It is mostly used in array.
@@ -60,5 +63,5 @@ _The for loop statement also evaluates the post-expression after each loop itera
 
 ![4](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-for-Loop.jpeg)
 
-***THE END***
-***THANKS FOR READING ***
+
+**THANKS FOR READING **
