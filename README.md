@@ -5,10 +5,10 @@
 
 No. | PAGE NAME | PAGE FILES
 ----|-----------|-----
-1|Second lab|[LAB-02](LAB-02.md)
-2|READ -1|[read01](read01.md)
-3|READ -2|[Read02](Read02.md)
-4|READ -3|[read03](read03.md)
-5|READ -4A|[read04a](read04a.md)
-6|READ -4B|[read04b](read04b.md)
-7|READ -5|[read05](read05.md)
+1|Reading-Notes|[LAB-02](LAB-02.md)
+2|How and Why to Become a Programmer|[read01](read01.md)
+3|what is Git?|[Read02](Read02.md)
+4|HTML & CSS|[read03](read03.md)
+5|JavaScript & HTML|[read04a](read04a.md)
+6|How Does a Computer Work?|[read04b](read04b.md)
+7|JavaScript Operators and Loops|[read05](read05.md)
