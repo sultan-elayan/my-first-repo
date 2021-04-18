@@ -8,8 +8,8 @@
 > CSS can be added to HTML documents in 3 ways:
 
 - Inline - by using the style attribute inside HTML elements
-- Internal - by using a <style> element in the <head> section
-- External - by using a <link> element to link to an external CSS file
+- Internal - by using a (style) element in the (head) section
+- External - by using a (link) element to link to an external CSS file
 
 ## colors in CSS 
 > Color Tag In CSS
@@ -45,5 +45,6 @@ by browsers. For example:
 DarkCyan
 
 ![2](https://tutorial.techaltum.com/images/rgb-vs-hsl.jpg)
+
 
 **For more info about colos you can vist this website [W3school](https://www.w3schools.com/html/html_colors.asp)**
