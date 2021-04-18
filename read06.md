@@ -23,6 +23,7 @@ attributes to trigger new CSS rules
 for those elements
 • Change the size or position of an
 <i mg> element
+
 **PROGRAM RULES**
 You can specify a set of steps for
 the browser to follow (like a recipe),
@@ -39,6 +40,7 @@ dimensions of the browser window
 and move an image to the bottom
 of the viewable area (also known as
 the viewport).
+
 **REACT TO EVENTS**
 You can specify that a script should run
 when a specific event has occurred. For
@@ -61,7 +63,8 @@ example, it could be run when:
 4. COMPARISON OPERATORS
 5. LOGICAL OPERATORS
 
-_here I will talk about two _
+_Here I will talk about two_
+
 - ## ARITHMETIC OPERATORS
 > JavaScript contains the following mathematical
 operators, which you can use with numbers.
@@ -80,7 +83,7 @@ It is used to join the strings on either side of it.
 specific task. If different parts of a script repeat the same task, you can
 reuse the function (rather than repeating the same set of st atements).
 
-_there is two type of function in Javascript _
+_There is two type of function in Javascript_
 
 The main difference between a function expression and a function declaration is the function name, which can be omitted in function expressions to create anonymous functions. A function expression can be used as an IIFE (Immediately Invoked Function Expression) which runs as soon as it is defined.
 
@@ -97,6 +100,6 @@ var x = function (a, b) {return a * b};
 After a function expression has been stored in a variable, the variable can be used as a function. Functions stored in variables do not need function names. They are always invoked (called) using the variable name.
 
 
-**for more Information Please [CLICK ME](https://www.w3schools.com/js/js_functions.asp)**
+**For more Information Please [CLICK ME](https://www.w3schools.com/js/js_functions.asp)**
 
 
