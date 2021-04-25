@@ -1,6 +1,6 @@
 # My Reading-Notes Website 
 ## Code 201 Reading Notes
-_this website made by sultan elayan , and its contain everything we learned , and it's have the summary from what we read in book that the TAs give it to us _
+_this website made by sultan elayan , and its contain everything we learned , and it's have the summary from what we read in book that the TAs give it to us_
 ### Let's me introduce my self 
 **My name is Sultan Elayan and I am a mechatronics engineer, I graduated in 2016, and I also hold a diploma from 2012 in the field of industrial automation , now i'm enrolled in software development course at ASAC , and i'm so excited**
 
