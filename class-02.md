@@ -48,7 +48,7 @@ Superscript: The tag is used to add a superscript text to the HTML document. The
 each new paragraph or heading
 on a new line.
 
-> To create a break between
+>(hr) To create a break between
 themes
 
 ![](https://raw.githubusercontent.com/lennyroyroy/basics-image/master/linebreak-horizontal.png)
@@ -81,11 +81,11 @@ a paragraph.
 ![](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2014/12/quotes-pairs.png)
 
 ## WHY WE USING CSS ??
-_what is Css?_
+### what is Css?
 > Cascading Style Sheets, fondly referred to as CSS, is a simply designed language intended to simplify the process of making web pages presentable. CSS allows you to apply styles to web pages. More importantly, CSS enables you to do this independent of the HTML that makes up each web page.
 CSS is easy to learn and understood but it provides powerful control over the presentation of an HTML document.
 
-_why using css?_
+### why using css?
 > - CSS saves time : You can write CSS once and reuse same sheet in multiple HTML pages.
 > - Easy Maintainence : To make a global change simply change the style, and all elements in all the webpages will be updated automatically.
 > - Search Engines : CSS is considered as clean coding technique, which means search engines won’t have to struggle to “read” its content.
