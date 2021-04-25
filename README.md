@@ -1,15 +1,18 @@
 # My Reading-Notes Website 
 ## Code 201 Reading Notes
 
-**INTRO**
+### INTRO 
 
-_this website made by sultan elayan , and its contain everything we learned , and it's have the summary from what we read in book that the TAs give it to us_
+**this website made by sultan elayan , and its contain everything we learned , and it's have the summary from what we read in book that the TAs give it to us**
+
 ### Let's me introduce my self 
-**My name is Sultan Elayan and I am a mechatronics engineer, I graduated in 2016, and I also hold a diploma from 2012 in the field of industrial automation , now i'm enrolled in software development course at ASAC , and i'm so excited**
+
+_My name is Sultan Elayan and I am a mechatronics engineer, I graduated in 2016, and I also hold a diploma from 2012 in the field of industrial automation , now i'm enrolled in software development course at ASAC , and i'm so excited_
 
 ## Table of Contents
 
 ### Amman-102
+
 No. | PAGE NAME | PAGE FILES
 ----|-----------|-----
 1|Reading-Notes|[LAB-02](LAB-02.md)
@@ -26,6 +29,7 @@ No. | PAGE NAME | PAGE FILES
 
 
 ## Amman-201
+
 No. | PAGE NAME | PAGE FILES
 ----|-----------|-----
 1|Introduction To HTML and Javascript|[class-01](class-01.md)
