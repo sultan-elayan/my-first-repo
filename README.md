@@ -34,7 +34,7 @@ No. | PAGE NAME | PAGE FILES
 ----|-----------|-----
 1|Introduction To HTML and Javascript|[class-01](class-01.md)
 2|HTML TEXT & Introducing CSS|[class-02](class-02.md)
-3|||
+3|HTML Lists, Control Flow with JS, and the CSS Box Model|[class-03](class-03.md)
 4|||
 5|||
 6|||
