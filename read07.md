@@ -20,6 +20,10 @@
 2. Background Color
 > by useing (background-color)
 
+<hr>
+
+### Understanding Color
+
 _The color property allows you
 to specify the color of text inside
 an element or background . You can specify any

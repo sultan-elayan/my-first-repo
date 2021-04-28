@@ -1,4 +1,4 @@
-# HTML Images; CSS Color & Text
+# HTML Images & CSS Color & Text
 ## HTML Images
 > There are many reasons why you might
 want to add an image to a web page: you
@@ -49,11 +49,7 @@ image in pixels._
 <hr>
 
 
-
-## CSS Color
-> Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
-
-_Color Tag In CSS_
+### Color Tag In CSS
 
 ### 1. Foreground Color
 > by useing (color)
@@ -61,12 +57,19 @@ _Color Tag In CSS_
 ### 2. Background Color
 > by useing (background-color)
 
+
+
+## CSS Color
+> Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
+
+### Understanding Color
+
 _The color property allows you
 to specify the color of text inside
 an element or background . You can specify any
 color in CSS in one of three ways:_
 
-1. rgb values
+- ## RGB values
 > These express colors in terms
 of how much red, green and
 blue are used to make it up. For
@@ -74,7 +77,7 @@ example: rgb(100,100,90)
 
 ![](https://tutorial.techaltum.com/images/css-colors.jpg)
 
-2. hex codes
+- ## HEX codes
 > These are six-digit codes that
 represent the amount of red,
 green and blue in a color,
@@ -83,7 +86,7 @@ sign. For example: #ee3e80
 
 ![](https://negliadesign.com/wordpress/assets/HEX-color-swatches-R-700x342.jpg?x96162)
 
-3. hsl color
+- ## HSL color
 > The hsl color property has
 been introduced in CSS3 as an
 alternative way to specify colors.
@@ -95,7 +98,7 @@ parentheses
 ![](https://miro.medium.com/max/964/1*B2d44wTBqfygLEZ8ZTJXzg.png)
 
 
-4. color names
+- ## color names
 > There are 147 predefined color
 names that are recognized
 by browsers. For example:
