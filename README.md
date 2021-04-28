@@ -36,7 +36,7 @@ No. | PAGE NAME | PAGE FILES
 2|HTML TEXT & Introducing CSS|[class-02](class-02.md)
 3|HTML Lists, Control Flow with JS & CSS Box Model|[class-03](class-03.md)
 4|HTML Links, JS Functions & CSS Layout|[class-04](class-04.md)
-5|||
+5|HTML Images; CSS Color & Text|[class-05](class-05.md)
 6|||
 7|||
 8|||
