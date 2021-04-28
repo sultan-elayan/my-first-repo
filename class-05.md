@@ -144,4 +144,6 @@ width of the containing box.
 
 _text-align examle_
 
+<hr>
+If you want more INFO about img please visit this blog [JPEG vs PNG vs GIF](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
 
