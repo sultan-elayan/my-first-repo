@@ -3,7 +3,7 @@
 _Understanding The Problem Domain Is The Hardest Part Of Programming_
 
 ### **Why problem domains are hard??**
-_because you can’t really see what you are trying to build very clearly. _
+_because you can’t really see what you are trying to build very clearly._
 
 ### **What can you do about it?**
 - #### Make the problem domain easier
