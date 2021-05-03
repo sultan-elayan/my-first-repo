@@ -38,8 +38,8 @@ No. | PAGE NAME | PAGE FILES
 4|HTML Links & JS Functions & CSS Layout|[class-04](class-04.md)
 5|HTML Images & CSS Color & Text|[class-05](class-05.md)
 6|Problem Domain, Objects, and the DOM|[class-06](class-06.md)
-7|||
-8|||
+7|Object-Oriented Programming, HTML Tables|[class-07](class-07.md)
+8|More CSS Layout|[class-08](class-08.md)
 9|||
 10|||
 11|||
