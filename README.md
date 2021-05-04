@@ -40,7 +40,7 @@ No. | PAGE NAME | PAGE FILES
 6|Problem Domain, Objects, and the DOM|[class-06](class-06.md)
 7|Object-Oriented Programming, HTML Tables|[class-07](class-07.md)
 8|More CSS Layout|[class-08](class-08.md)
-9|||
+9|Forms and JS Events|[class-09](class-09.md)
 10|||
 11|||
 12|||
