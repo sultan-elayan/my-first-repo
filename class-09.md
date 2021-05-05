@@ -16,7 +16,7 @@ Google's homepage.
 1. Text input
 2. Password input  
 3. Text area
-### Ma king Choice s:
+### MakingChoices:
 1. Radio buttons
 2. Checkboxes
 3. Drop-down boxes
