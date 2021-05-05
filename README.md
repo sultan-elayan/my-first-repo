@@ -41,7 +41,7 @@ No. | PAGE NAME | PAGE FILES
 7|Object-Oriented Programming, HTML Tables|[class-07](class-07.md)
 8|More CSS Layout|[class-08](class-08.md)
 9|Forms and JS Events|[class-09](class-09.md)
-10|||
+10|Debugging|[class-10](class-10.md)
 11|||
 12|||
 13|||
