@@ -42,7 +42,7 @@ No. | PAGE NAME | PAGE FILES
 8|More CSS Layout|[class-08](class-08.md)
 9|Forms and JS Events|[class-09](class-09.md)
 10|Debugging|[class-10](class-10.md)
-11|||
+11|Audio, Video, Images|[class-11](class-11.md)
 12|||
 13|||
 14|||
