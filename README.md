@@ -44,7 +44,7 @@ No. | PAGE NAME | PAGE FILES
 10|Debugging|[class-10](class-10.md)
 11|Audio, Video, Images|[class-11](class-11.md)
 12|Chart.js, Canvas|[class-12](class-12.md)
-13|||
+13| Local Storage|[class-13](class-13.md)
 14|||
 15|||
 
