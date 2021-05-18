@@ -45,8 +45,8 @@ No. | PAGE NAME | PAGE FILES
 11|Audio, Video, Images|[class-11](class-11.md)
 12|Chart.js, Canvas|[class-12](class-12.md)
 13| Local Storage|[class-13](class-13.md)
-14|||
-15|||
+14| CSS Transforms, Transitions, and Animations|[class-14a](class-14a.md)
+15|What Google Learned About Teams|[class-14b](class-14b.md)
 
 **Made by Sultan Elayan**
 To visit my github profile please [CLICK HERE](https://github.com/sultan-elayan)
