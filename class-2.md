@@ -39,3 +39,8 @@ _Put the following things in the order that they happen: componentDidMount, rend
 <hr>
 
 For More Info About [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI&ab_channel=WebDevSimplified)
+
+
+## Things I want to know more about
+
+- i'm so excited to learn more about how we use react in real web App and know more about the life cycle and i'm waiting to test the netlify website
