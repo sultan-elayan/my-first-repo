@@ -53,7 +53,7 @@ No. | PAGE NAME | PAGE FILES
 No. | PAGE NAME | PAGE FILES
 ----|-----------|-----
 1|Introduction to React and Components|[class-1](class-1.md)
-2|Introduction to React and Components|[class-2](class-2.md)
+2|State and Props|[class-2](class-2.md)
 
 
 **Made by Sultan Elayan**
