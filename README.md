@@ -54,6 +54,7 @@ No. | PAGE NAME | PAGE FILES
 ----|-----------|-----
 1|Introduction to React and Components|[class-1](class-1.md)
 2|State and Props|[class-2](class-2.md)
+3|Passing Functions as Props|[class-3](class-3.md)
 
 
 **Made by Sultan Elayan**
