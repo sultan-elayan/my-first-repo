@@ -56,7 +56,8 @@ No. | PAGE NAME | PAGE FILES
 2|State and Props|[class-2](class-2.md)
 3|Passing Functions as Props|[class-3](class-3.md)
 4|React and Forms|[class-4](class-4.md)
-4|Putting it all together|[class-5](class-5.md)
+5|Putting it all together|[class-5](class-5.md)
+6|NODE.JS|[class-6](class-6.md)
 
 
 **Made by Sultan Elayan**
