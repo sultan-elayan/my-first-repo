@@ -58,6 +58,7 @@ No. | PAGE NAME | PAGE FILES
 4|React and Forms|[class-4](class-4.md)
 5|Putting it all together|[class-5](class-5.md)
 6|NODE.JS|[class-6](class-6.md)
+7|REST|[class-7](class-7.md)
 
 
 **Made by Sultan Elayan**
