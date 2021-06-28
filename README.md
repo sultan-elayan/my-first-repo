@@ -59,6 +59,7 @@ No. | PAGE NAME | PAGE FILES
 5|Putting it all together|[class-5](class-5.md)
 6|NODE.JS|[class-6](class-6.md)
 7|REST|[class-7](class-7.md)
+8|APIs|[class-8](class-8.md)
 
 
 **Made by Sultan Elayan**
