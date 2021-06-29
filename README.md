@@ -60,6 +60,7 @@ No. | PAGE NAME | PAGE FILES
 6|NODE.JS|[class-6](class-6.md)
 7|REST|[class-7](class-7.md)
 8|APIs|[class-8](class-8.md)
+9|FUNCTIONAL PROGRAMMING|[class-9](class-9.md)
 
 
 **Made by Sultan Elayan**
