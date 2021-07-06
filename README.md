@@ -65,6 +65,8 @@ No. | PAGE NAME | PAGE FILES
 11|Authentication|[class-011](class-011.md)
 12|Mongo and Mongoose|[class-012](class-012.md)
 13| CRUD |[class-013](class-013.md)
+14A| Diversity & Inclusion in the Tech Industry |[class-014A](class-014.md)
+
 
 
 **Made by Sultan Elayan**
