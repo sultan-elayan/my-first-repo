@@ -1,5 +1,4 @@
-# My Reading-Notes Website 
-## Code 201 Reading Notes
+# Reading Notes
 
 ### INTRO 
 
@@ -11,7 +10,7 @@ _My name is Sultan Elayan and I am a mechatronics engineer, I graduated in 2016,
 
 ## Table of Contents
 
-### Amman-102
+### Code 102 - Intro to Software Development
 
 No. | PAGE NAME | PAGE FILES
 ----|-----------|-----
@@ -28,7 +27,7 @@ No. | PAGE NAME | PAGE FILES
 
 
 
-### Amman-201
+### Code 201 - Foundations of Software Development
 
 No. | PAGE NAME | PAGE FILES
 ----|-----------|-----
@@ -48,7 +47,7 @@ No. | PAGE NAME | PAGE FILES
 14| CSS Transforms, Transitions, and Animations|[class-14a](class-14a.md)
 15|What Google Learned About Teams|[class-14b](class-14b.md)
 
-### Amman-301
+### Code 301 - Intermediate Software Development
 
 No. | PAGE NAME | PAGE FILES
 ----|-----------|-----
@@ -68,7 +67,7 @@ No. | PAGE NAME | PAGE FILES
 14| Diversity & Inclusion in the Tech Industry |[class-014](class-014.md)
 15|Project Kickoff|[class-015](class-015.md)
 
-### Amman-401
+### Code 401 - Advanced Software Development
 
 No. | PAGE NAME | PAGE FILES
 ----|-----------|-----

@@ -28,7 +28,7 @@
 
  <hr>
 
- ## Act like you make $1000/hr
+ ## Act like you make $1000-hr
 
 ![](https://qph.fs.quoracdn.net/main-qimg-cf82f67a26139085b979d3be81141ff0)
 
