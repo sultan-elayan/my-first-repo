@@ -72,6 +72,8 @@ No. | PAGE NAME | PAGE FILES
 No. | PAGE NAME | PAGE FILES
 ----|-----------|-----
 1|Get Ready for 401 Prep Work|[read-1](read-1.md)
+2| Node Ecosystem, TDD, CI/CD|[read-1b](read-1b.md)
+3| Express|[read-2](read-2.md)
 
 
 
