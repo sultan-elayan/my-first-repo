@@ -74,7 +74,8 @@ No. | PAGE NAME | PAGE FILES
 1|Get Ready for 401 Prep Work|[read-1](read-1.md)
 2| Node Ecosystem, TDD, CI/CD|[read-1b](read-1b.md)
 3| Express|[read-2](read-2.md)
-3| Express REST API|[read-3](read-3.md)
+4| Express REST API|[read-3](read-3.md)
+5| Data Modeling|[read-4](read-4.md)
 
 
 
