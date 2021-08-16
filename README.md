@@ -78,6 +78,7 @@ No. | PAGE NAME | PAGE FILES
 5| Data Modeling|[read-4](read-4.md)
 6| Authentication|[read-5](read-5.md)
 7| Bearer Authorization|[read-6](read-6.md)
+8|  Access Control (ACL) |[read-7](read-7.md)
 
 
 
