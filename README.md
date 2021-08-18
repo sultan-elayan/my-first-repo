@@ -80,6 +80,7 @@ No. | PAGE NAME | PAGE FILES
 7| Bearer Authorization|[read-6](read-6.md)
 8|  Access Control (ACL) |[read-7](read-7.md)
 9|  Authorization/Authentication |[read-8](read-8.md)
+10| Stacks and Queues |[read-9](read-9.md)
 
 
 
