@@ -74,6 +74,7 @@ Packets are the basic units of communication over a TCP/IP network. Devices on a
 <hr>
 
  ## Rooms
+ 
 > A room is an arbitrary channel that sockets can join and leave. It can be used to broadcast events to a subset of clients:
 
 ![](https://socket.io/images/rooms-redis.png)
