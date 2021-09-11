@@ -91,6 +91,7 @@ No. | PAGE NAME | PAGE FILES
 17| AWS: S3 and Lambda |[read016](read16.md)
 18|  AWS: API, Dynamo and Lambda |[read017](read17.md)
 19|  Events |[read018](read18.md)
+20|  Component Based UI |[read019](read19.md)
 
 
 
