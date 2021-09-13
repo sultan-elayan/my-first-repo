@@ -93,6 +93,7 @@ No. | PAGE NAME | PAGE FILES
 19|  Events |[read018](read18.md)
 20|  Component Based UI |[read019](read19.md)
 21|  useState() Hook  |[read020](read20.md)
+22|  Component Lifecycle / useEffect()  |[read021](read21.md)
 
 
 
