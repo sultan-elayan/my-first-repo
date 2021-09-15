@@ -95,6 +95,7 @@ No. | PAGE NAME | PAGE FILES
 21|  useState() Hook  |[read020](read20.md)
 22|  Component Lifecycle / useEffect()  |[read021](read21.md)
 23| Advanced State with Reducers |[read022](read22.md)
+24| Hash Tables |[read023](read23.md)
 
 
 
