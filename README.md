@@ -6,7 +6,7 @@
 
 ### Let's me introduce my self 
 
-_My name is Sultan Elayan and I am a mechatronics engineer, I graduated in 2016, and I also hold a diploma from 2012 in the field of industrial automation , now i'm enrolled in software development course at ASAC , and i'm so excited_
+_My name is Sultan Elayan and I am a mechatronics engineer, I graduated in 2016, and I also hold a diploma from 2012 in the field of industrial automation , now i'm enrolled in software development course at ASAC_
 
 ## Table of Contents
 
@@ -97,6 +97,7 @@ No. | PAGE NAME | PAGE FILES
 23| Advanced State with Reducers |[read022](read22.md)
 24| Hash Tables |[read023](read23.md)
 25| Context API |[read024](read24.md)
+26| Context API - Behaviors |[read025](read25.md)
 
 
 
