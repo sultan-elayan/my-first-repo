@@ -101,6 +101,7 @@ No. | PAGE NAME | PAGE FILES
 27| Reading: Login and Auth |[read026](read26.md)
 28|  API Integration|[read027](read27.md)
 29|  Graphs|[read028](read28.md)
+30|  Application State with Redux|[read029](read29.md)
 
 
 
