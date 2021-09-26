@@ -2,7 +2,7 @@
 
 ## What are the advantages of storing tokens in “Cookies” vs “Local Storage”
 
- #### Local Storage
+#### Local Storage
 ##### Pros: It's convenient.
 
 > - It's pure JavaScript and it's convenient. If you don't have a back-end and you're relying on a third-party API, you can't always ask them to set a specific cookie for your site.

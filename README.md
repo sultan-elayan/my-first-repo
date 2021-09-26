@@ -2,12 +2,11 @@
 
 ### INTRO 
 
-**this website made by sultan elayan , and its contain everything we learned , and it's have the summary from what we read in book that the TAs give it to us**
+**this website made by sultan elayan , and its contain the main topic we learned in ASAC college , and it's have the summary from what we read in books and what we prepared**
 
 ### Let's me introduce my self 
 
-_My name is Sultan Elayan and I am a mechatronics engineer, I graduated in 2016, and I also hold a diploma from 2012 in the field of industrial automation , now i'm enrolled in software development course at ASAC_
-
+_My name is Sultan Elayan and I am a mechatronics engineer, I graduated in 2016 ,now i'm full stack developer holding of an internationally accredited certificate in software development from Code fellows Academy , USA (2021)
 ## Table of Contents
 
 ### Code 102 - Intro to Software Development
@@ -88,20 +87,21 @@ No. | PAGE NAME | PAGE FILES
 14| Event Driven Architecture |[read013](read13.md)
 15| Trees |[read014](read14.md)
 16| AWS: Cloud Servers |[read015](read15.md)
-17| AWS: S3 and Lambda |[read016](read16.md)
-18|  AWS: API, Dynamo and Lambda |[read017](read17.md)
-19|  Events |[read018](read18.md)
-20|  Component Based UI |[read019](read19.md)
-21|  useState() Hook  |[read020](read20.md)
-22|  Component Lifecycle / useEffect()  |[read021](read21.md)
-23| Advanced State with Reducers |[read022](read22.md)
-24| Hash Tables |[read023](read23.md)
-25| Context API |[read024](read24.md)
-26| Context API - Behaviors |[read025](read25.md)
-27| Reading: Login and Auth |[read026](read26.md)
-28|  API Integration|[read027](read27.md)
-29|  Graphs|[read028](read28.md)
-30|  Application State with Redux|[read029](read29.md)
+17| AWS: S3 and Lambda |[read16](read16.md)
+18|  AWS: API, Dynamo and Lambda |[read17](read17.md)
+19|  Events |[read18](read18.md)
+20|  Component Based UI |[read19](read19.md)
+21|  useState() Hook  |[read20](read20.md)
+22|  Component Lifecycle / useEffect()  |[read21](read21.md)
+23| Advanced State with Reducers |[read22](read22.md)
+24| Hash Tables |[read23](read23.md)
+25| Context API |[read24](read24.md)
+26| Context API - Behaviors |[read25](read25.md)
+27| Reading: Login and Auth |[read26](read26.md)
+28|  API Integration|[read27](read27.md)
+29|  Graphs|[read28](read28.md)
+30|  Application State with Redux|[read29](read29.md)
+31|  Redux - Combined Reducers|[read30](read30.md)
 
 
 
