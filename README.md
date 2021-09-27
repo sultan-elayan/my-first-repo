@@ -2,11 +2,11 @@
 
 ### INTRO 
 
-**this website made by sultan elayan , and its contain the main topic we learned in ASAC college , and it's have the summary from what we read in books and what we prepared**
+**This website made by sultan elayan , and its contain the main topic we learned in ASAC college , and it's have the summary from what we read in books and what we prepared**
 
 ### Let's me introduce my self 
 
-_My name is Sultan Elayan and I am a mechatronics engineer, I graduated in 2016 ,now i'm full stack developer holding of an internationally accredited certificate in software development from Code fellows Academy , USA (2021)
+_My name is Sultan Elayan and I am a mechatronics engineer, I graduated in 2016 ,now i'm full stack developer holding of an internationally accredited certificate in software development from Code fellows Academy , USA (2021)_
 ## Table of Contents
 
 ### Code 102 - Intro to Software Development
@@ -102,6 +102,7 @@ No. | PAGE NAME | PAGE FILES
 29|  Graphs|[read28](read28.md)
 30|  Application State with Redux|[read29](read29.md)
 31|  Redux - Combined Reducers|[read30](read30.md)
+32|   Redux - Asynchronous Actions|[read31](read31.md)
 
 
 
